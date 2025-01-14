@@ -16,7 +16,7 @@
   Veritabanından çektiğimiz verileri chart nesnesini kullanarak grafik haline getirdik.
 
 ➥ Projenin Son Halinin Görselleri;
-Login dashboard bankalar harcamalar banka hareketleri ayarlar
+
 ![image](https://github.com/user-attachments/assets/9b8f9b9e-bd78-4448-844c-349197915142)
 ![image](https://github.com/user-attachments/assets/1a174330-52c5-41e8-a469-8b4f9d6508a3)
 ![image](https://github.com/user-attachments/assets/67b99c94-798a-45b9-9e9d-3e68415a5aeb)
