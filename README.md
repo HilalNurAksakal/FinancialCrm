@@ -5,7 +5,7 @@
 ✍🏼 | Ders 28
   Uygulamamız için Veritabanında gerekli tablolarımızı oluşturduk, tablolarımıza veri girişi yaptık.
   
-  Sql üzerinden tablolarımızı diyagram ile ilişkilendirdik.
+    Sql üzerinden tablolarımızı diyagram ile ilişkilendirdik.
   
   Projemiz için ana Form tasarımını yaptık.
 
