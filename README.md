@@ -19,7 +19,22 @@
   
   Veritabanından çektiğimiz verileri chart nesnesini kullanarak grafik haline getirdik.
 
-➥ Projenin Son Halinin Görselleri;
+Final dersinden sonra projeye eklediklerim;
+----------------------------------------------------------------------
+➥ Login Ekranında User tablosundaki verilere göre giriş yapma
+
+➥ Harcamalar Formunda Son harcamaları görüntüleme ve tüm harcamaları datagridview'da görüntüleme
+
+➥ Banka Hareketleri Formu Son banka hareketlerini ve tüm banka hareketlerini datagridview'da görüntüleme
+
+➥ Ayarlar kısmına şifre değiştirme formu ekledim. 
+
+➥ Kategorilerin altındaki tüm butonlara atama yaparak yeni sayfalara yönlendirerek. Tüm Formların birbirine bağlantısını sağladım.
+
+
+
+
+⤷  Projenin Son Halinin Görselleri;
 
 ![image](https://github.com/user-attachments/assets/9b8f9b9e-bd78-4448-844c-349197915142)
 ![image](https://github.com/user-attachments/assets/1a174330-52c5-41e8-a469-8b4f9d6508a3)
