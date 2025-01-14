@@ -4,15 +4,19 @@
 
 ✍🏼 | Ders 28
   Uygulamamız için Veritabanında gerekli tablolarımızı oluşturduk, tablolarımıza veri girişi yaptık.
+  
   Sql üzerinden tablolarımızı diyagram ile ilişkilendirdik.
+  
   Projemiz için ana Form tasarımını yaptık.
 
 ✍🏼 | Ders 29
   Banka formu için veri tabanından verileri çektik.
+  
   Ödemeler formu için veri tabanından verileri çektik ve ekleme, silme, listeleme, güncelleme işlemlerini tamamladık.
 
 ✍🏼 | Ders 30
   Dashboard formu için veri tabanından verileri çektik.
+  
   Veritabanından çektiğimiz verileri chart nesnesini kullanarak grafik haline getirdik.
 
 ➥ Projenin Son Halinin Görselleri;
