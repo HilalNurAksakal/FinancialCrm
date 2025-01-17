@@ -4,35 +4,23 @@
 
 ✨ Murat Yücedağ'ın eğitmenliğinde gerçekleşen C# Eğitim kampının Final Projesini içermektedir. ✨
 
-✍🏼 | Ders 28
-  Uygulamamız için Veritabanında gerekli tablolarımızı oluşturduk, tablolarımıza veri girişi yaptık.
 
-  Sql üzerinden tablolarımızı diyagram ile ilişkilendirdik.
-  
-  Projemiz için ana Form tasarımını yaptık.
+Bu proje, Windows Forms kullanılarak geliştirilmiş bir Finansal CRM uygulamasıdır. Financal CRM, finansal işlemleri yönetmek, banka hareketlerini takip etmek amacıyla tasarlanmıştır. 
 
-✍🏼 | Ders 29
-  Banka formu için veri tabanından verileri çektik.
-  
-  Ödemeler formu için veri tabanından verileri çektik ve ekleme, silme, listeleme, güncelleme işlemlerini tamamladık.
 
-✍🏼 | Ders 30
-  Dashboard formu için veri tabanından verileri çektik.
-  
-  Veritabanından çektiğimiz verileri chart nesnesini kullanarak grafik haline getirdik.
 
-Final dersinden sonra projeye eklediklerim;
+Kullanılan Teknolojiler ve Uygulamalar
 ----------------------------------------------------------------------
-➥ Login Ekranında User tablosundaki verilere göre giriş yapma
 
-➥ Harcamalar Formunda Son harcamaları görüntüleme ve tüm harcamaları datagridview'da görüntüleme
+➥ Yazılım dili : C#
 
-➥ Banka Hareketleri Formu Son banka hareketlerini ve tüm banka hareketlerini datagridview'da görüntüleme
+➥ Windows Form
 
-➥ Ayarlar kısmına şifre değiştirme formu ekledim. 
+➥ Entity Framework 
 
-➥ Kategorilerin altındaki tüm butonlara atama yaparak yeni sayfalara yönlendirerek. Tüm Formların birbirine bağlantısını sağladım.
+➥ LINQ
 
+➥ Lambda İfadeler
 
 
 
